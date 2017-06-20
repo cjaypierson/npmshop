@@ -1,0 +1,21 @@
+{
+  "name": "@cjaypierson/npmshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjaypierson/npmshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cjaypierson/npmshop/issues"
+  },
+  "homepage": "https://github.com/cjaypierson/npmshop#readme",
+  "description": "This is the NPM Workshop for FCC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
